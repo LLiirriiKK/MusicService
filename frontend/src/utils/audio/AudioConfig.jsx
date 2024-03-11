@@ -1,0 +1,1 @@
+export const AudioPath = 'http://localhost:8080/audio/';
